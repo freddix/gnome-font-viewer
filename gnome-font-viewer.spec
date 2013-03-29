@@ -1,11 +1,11 @@
 Summary:	A font viewer utility for GNOME
 Name:		gnome-font-viewer
-Version:	3.6.2
+Version:	3.8.0
 Release:	1
 License:	GPL v2
 Group:		X11/Applications
-Source0:	http://ftp.gnome.org/pub/GNOME/sources/gnome-font-viewer/3.6/%{name}-%{version}.tar.xz
-# Source0-md5:	ea85f170883dad2b42bf646a020f86df
+Source0:	http://ftp.gnome.org/pub/GNOME/sources/gnome-font-viewer/3.8/%{name}-%{version}.tar.xz
+# Source0-md5:	c4ee474e72f0083453f369b6817866d5
 URL:		http://live.gnome.org/GnomeUtils
 BuildRequires:	autoconf
 BuildRequires:	automake
