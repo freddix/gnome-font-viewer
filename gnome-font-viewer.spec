@@ -1,16 +1,16 @@
 Summary:	A font viewer utility for GNOME
 Name:		gnome-font-viewer
-Version:	3.10.0
+Version:	3.12.0
 Release:	1
 License:	GPL v2
 Group:		X11/Applications
-Source0:	http://ftp.gnome.org/pub/GNOME/sources/gnome-font-viewer/3.10/%{name}-%{version}.tar.xz
-# Source0-md5:	544a529240fbfc65a203d10bebce4655
+Source0:	http://ftp.gnome.org/pub/GNOME/sources/gnome-font-viewer/3.12/%{name}-%{version}.tar.xz
+# Source0-md5:	253cc356073f8ed8b50beb427496d432
 URL:		http://live.gnome.org/GnomeUtils
 BuildRequires:	autoconf
 BuildRequires:	automake
 BuildRequires:	gettext-devel
-BuildRequires:	gtk+3-devel
+BuildRequires:	gnome-desktop-devel
 BuildRequires:	intltool
 BuildRequires:	libtool
 BuildRequires:	pkg-config
